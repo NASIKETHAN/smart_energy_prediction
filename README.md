@@ -6,4 +6,7 @@ As renewable energy sources like solar and wind become increasingly prevalent, m
 - Machine learning-based energy generation forecasting (solar/wind)
 - Load consumption prediction for dynamic demand-response strategies
 - Real-time grid monitoring and anomaly detection
-- Predictive maintenance using sensor data and failure history 
+- Predictive maintenance using sensor data and failure history
+
+<h3> Screenshots</h3>
+<img src = 
