@@ -9,5 +9,10 @@ As renewable energy sources like solar and wind become increasingly prevalent, m
 - Predictive maintenance using sensor data and failure history
 
 <h3> Screenshots</h3>
+Energy Prediction Dashboard
 <img src = "https://github.com/NASIKETHAN/smart_energy_prediction/blob/d7d050e10862a16e4787b16bfb801f7e8681eb2c/Screenshots/Screenshot%202025-05-12%20145230.png" width="610" height="400"><br>
+Energy Predicted Over the Time 
+<img src = "https://github.com/NASIKETHAN/smart_energy_prediction/blob/b61279e8ce504baedc1ee57fe8653e34e64224cb/Screenshots/Screenshot%202025-05-12%20145305.png" width="610" height="400"><br>
+Visual Representation of Energy Consumption Dashboard
+<img src = "https://github.com/NASIKETHAN/smart_energy_prediction/blob/b61279e8ce504baedc1ee57fe8653e34e64224cb/Screenshots/Screenshot%202025-05-12%20145340.png" width="610" height="400"><br>
 
